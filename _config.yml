@@ -6,7 +6,7 @@
 name: Your Name
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Web 技能提升。
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://http://p2.gexing.com/touxiang/20130131/2314/510a8a3e99a82_200x200_3.png
@@ -18,10 +18,10 @@ avatar: https://http://p2.gexing.com/touxiang/20130131/2314/510a8a3e99a82_200x20
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email:1747136931@qq.com
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: liaochao28/jekyll-now
   instagram:
   linkedin:
   pinterest:
